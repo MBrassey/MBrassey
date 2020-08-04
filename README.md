@@ -1,6 +1,6 @@
 __Welcome.__
 <br /><br />
-I'm Matt Brassey, full stack web developer with a focus on decentralized applications.
+I'm Matt Brassey - full stack web developer with a focus on decentralized applications.
 
 <p align="right">
 <a href="https://www.linkedin.com/in/matthew-brassey-7518711b2/" target="_blank" rel="noopener noreferrer">LinkedIn</a> |
