@@ -1,4 +1,4 @@
-:cyclone:__Welcome.__
+:cyclone: __Welcome.__
 <br /><br />
 I'm Matt Brassey - Full stack web developer with a focus on decentralized applications.
 
