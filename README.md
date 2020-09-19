@@ -1,9 +1,10 @@
 :cyclone: __Welcome.__
-<br /><br />
-I'm Matt Brassey - Full stack web developer with a focus on decentralized applications.
+
+
+> I'm Matt Brassey - Full stack web developer with a focus on decentralized applications.
 
 <p align="right">
-<a href="www.linkedin.com/in/MBrassey" target="_blank" rel="noopener noreferrer">LinkedIn</a> |
+<a href="www.linkedin.com/in/MBrassey/" target="_blank" rel="noopener noreferrer">LinkedIn</a> |
 <a href="https://www.freecodecamp.org/luc1d" target="_blank" rel="noopener noreferrer">FreeCodeCamp</a> |
 <a href="https://MBrassey.github.io/ResponsivePortfolio/" target="_blank" rel="noopener noreferrer">Portfolio</a> |
 <a href="#" target="_blank" rel="noopener noreferrer">Resume</a>
