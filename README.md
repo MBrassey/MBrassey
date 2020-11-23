@@ -1,6 +1,6 @@
 :cyclone: **Welcome.**
 
-> I'm Matt Brassey - Full stack web developer with a focus on decentralized applications.
+> I'm Matt Brassey - Full stack developer with a focus on decentralized applications.
 
 <p align="center">
 <a href="https://www.linkedin.com/in/MBrassey/" target="_blank" rel="noopener noreferrer">LinkedIn</a> |
