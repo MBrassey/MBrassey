@@ -3,6 +3,9 @@
 > I'm Matt Brassey - Full stack developer with a focus on decentralized applications.
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 <p align="center">
