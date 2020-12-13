@@ -2,6 +2,9 @@
 
 > I'm Matt Brassey - Full stack developer with a focus on decentralized applications.
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <p align="center">
 <a href="https://www.linkedin.com/in/MBrassey/" target="_blank" rel="noopener noreferrer">LinkedIn</a> |
 <a href="https://gist.github.com/MBrassey" target="_blank" rel="noopener noreferrer">Gist</a> |
