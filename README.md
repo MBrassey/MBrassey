@@ -1,4 +1,4 @@
-<h1>**Welcome**</h1><img src="https://media2.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47ux2cr9v3q24bmle3el5py7c5zlyi1fh93f6ryz15&rid=giphy.gif" width="36">
+<img src="https://media2.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47ux2cr9v3q24bmle3el5py7c5zlyi1fh93f6ryz15&rid=giphy.gif" width="36">**Welcome**
 
 > I'm Matt Brassey - Full stack developer with a focus on decentralized applications.
 
