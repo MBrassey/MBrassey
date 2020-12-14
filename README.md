@@ -1,4 +1,4 @@
-<img src="https://media2.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47ux2cr9v3q24bmle3el5py7c5zlyi1fh93f6ryz15&rid=giphy.gif" width="33"> Welcome, I'm **Matt Brassey** - Full stack developer with a focus on decentralized applications.
+<img src="https://raw.githubusercontent.com/MBrassey/MediaStore/main/Images/octo2.gif" width="33"> Welcome, I'm **Matt Brassey** - Full stack developer with a focus on decentralized applications.
 
 <!--START_SECTION:waka-->
 ```text
