@@ -1,4 +1,5 @@
 :cyclone: **Welcome.**
+<img src="https://giphy.com/embed/du3J3cXyzhj75IOgvA" width="48">
 
 > I'm Matt Brassey - Full stack developer with a focus on decentralized applications.
 
