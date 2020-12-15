@@ -3,8 +3,8 @@ name: MBrassey Stats
 on:
   workflow_dispatch:
   schedule:
-    # Runs at 12am UTC
-    - cron: "0 0 * * *"
+    # run twice daily
+    - cron: "00 01,13 * * *"
 
 jobs:
   update-readme:
