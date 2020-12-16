@@ -12,7 +12,6 @@ Text         11 mins         ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ```
 <!--END_SECTION:waka-->
 [<img align="right" src="https://raw.githubusercontent.com/MBrassey/MediaStore/main/Images/eth.gif" width="96">](https://brassey.io/)
-<p align="right">[brassey.io](https://brassey.io/)</p>
 <p align="center">
 <a href="https://www.linkedin.com/in/MBrassey/" target="_blank" rel="noopener noreferrer">LinkedIn</a> |
 <a href="https://gist.github.com/MBrassey" target="_blank" rel="noopener noreferrer">Gist</a> |
@@ -20,6 +19,6 @@ Text         11 mins         ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <a href="https://jsfiddle.net/user/MBrassey/fiddles/" target="_blank" rel="noopener noreferrer">JSFiddle</a> |
 <a href="https://www.brassey.io/" target="_blank" rel="noopener noreferrer">Portfolio</a> |
 <a href="#" target="_blank" rel="noopener noreferrer">Resume</a>
-</p>
+</p><p align="right">[brassey.io](https://brassey.io/)</p>
 
 > My typical workflow when creating a decentralized application begins with writing & deploying a solidity smart contract to a local blockchain (Remix / Ganache). I then unit test the contract via Jest or React Testing Library. Next, I plan & create application backend using Express, frontend with React & Web3 or Ethers.js. Now it's time to deploy the contract to an Ethereum testnet such as Kovan, Ropsten or Rinkeby. At this point I deploy all webapp assets to the interplanetary filesystem (IPFS) & test functionality. Finally, I deploy the contract(s) to Ethereum mainnet.
