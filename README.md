@@ -23,14 +23,9 @@ Text         11 mins         ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 > My typical workflow when creating a decentralized application:
 
-> Write & deploy solidity smart contract to local blockchain (Remix / Ganache)
-
-> Unit test smart contract via Jest or React Testing Library
-
-> Plan & create application backend using Express, frontend with React & Web3 or Ethers.js
-
-> Deploy smart contract to Ethereum test net such as Kovan, Ropsten or Kovan
-
-> Deploy website assets to the interplanetary filesystem (IPFS) & test functionality
-
-> Deploy smat contract to Ethereum mainnet & test application functionality
+- Write & deploy solidity smart contract to local blockchain (Remix / Ganache)
+- Unit test smart contract via Jest or React Testing Library
+- Plan & create application backend using Express, frontend with React & Web3 or Ethers.js
+- Deploy smart contract to Ethereum test net such as Kovan, Ropsten or Kovan
+- Deploy website assets to the interplanetary filesystem (IPFS) & test functionality
+- Deploy smat contract to Ethereum mainnet & test application functionality
