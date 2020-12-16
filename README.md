@@ -21,4 +21,4 @@ Text         11 mins         ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <a href="#" target="_blank" rel="noopener noreferrer">Resume</a>
 </p>
 
-> Testing font here, with regards to the surrounding style situation. 
+> I will describe my typical workflow when creating a decentralized application. I practice Smart contract development in the Solidity programming language, using front-end libraries like web3.js, ethers.js, and React for the front end UI design. I write and perform unit tests with frameworks like Truffle and Waffle. I've used the Openzeppelin library to bring features and standardization to testnet and mainnet contracts. To ensure smart contracts are deployed securely, I use frameworks like Mythril and the GitHub Advisory Database as well as adhering to Solidity's best practices. I've successfully deployed several smart contracts to the Rinkeby, Ropsten & Kovan Testnets as well as the Mainnet Ethereum Blockchain. I have experience verifying decentralized applications and tokens on Etherscan.io in addition to constructing ABI's to interface with Mainnet contracts.  
