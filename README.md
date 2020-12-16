@@ -1,4 +1,4 @@
-Welcome, I'm **Matt Brassey** - Full stack developer with a focus on decentralized applications.<p align="right">[brassey.io](https://brassey.io/)</p>
+Welcome, I'm **Matt Brassey** - Full stack developer with a focus on decentralized applications.<p align="right">**[brassey.io](https://brassey.io/)**</p>
 
 <!--START_SECTION:waka-->
 ```text
