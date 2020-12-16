@@ -1,5 +1,5 @@
 Welcome, I'm **Matt Brassey** - Full stack developer with a focus on decentralized applications.
-[<img align="right" src="https://raw.githubusercontent.com/MBrassey/MediaStore/main/Images/eth.gif" width="111">](https://brassey.io/) 
+[<img align="right" src="https://raw.githubusercontent.com/MBrassey/MediaStore/main/Images/eth.gif" width="98">](https://brassey.io/) 
 <!--START_SECTION:waka-->
 ```text
 Week: 08 December, 2020 - 15 December, 2020
