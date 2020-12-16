@@ -21,4 +21,4 @@ Text         11 mins         ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <a href="#" target="_blank" rel="noopener noreferrer">Resume</a>
 </p>
 
-> My workflow to create a decentralized application begins with writing & deploying a solidity smart contract to a local blockchain. I unit test the contract via Jest or React Testing Lib. Next, I plan & create the backend using Express, frontend with React & Web3 or Ethers.js. Now I deploy the contract to an Ethereum testnet such as Kovan, Ropsten or Rinkeby. I deploy all webapp assets to the InterPlanetary Filesystem (IPFS) & test. Finally, I deploy the contract(s) to Ethereum mainnet.
+> My workflow to create a decentralized application begins with writing & deploying a solidity smart contract to a local blockchain. I unit test the contract via Jest or React Testing Lib. Next, I plan & create the backend using Express, frontend with React & Web3 or Ethers.js. Now I deploy the contract to an Ethereum testnet such as Kovan, Ropsten or Rinkeby. I deploy all webapp assets to the InterPlanetary Filesystem (IPFS) & test. Finally, I deploy the contract to mainnet.
