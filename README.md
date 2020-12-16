@@ -11,7 +11,7 @@ JSON         11 mins         ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 Text         11 mins         ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.20 % 
 ```
 <!--END_SECTION:waka-->
-[<img align="right" src="https://raw.githubusercontent.com/MBrassey/MediaStore/main/Images/eth.gif" width="89">](https://brassey.io/) 
+[<img align="right" src="https://raw.githubusercontent.com/MBrassey/MediaStore/main/Images/eth.gif" width="90">](https://brassey.io/) 
 <p align="center">
 <a href="https://www.linkedin.com/in/MBrassey/" target="_blank" rel="noopener noreferrer">LinkedIn</a> |
 <a href="https://gist.github.com/MBrassey" target="_blank" rel="noopener noreferrer">Gist</a> |
