@@ -1,4 +1,4 @@
-[<img align="right" src="https://raw.githubusercontent.com/MBrassey/MediaStore/main/Images/eth.gif" width="60">](https://brassey.io/) &nbsp;Welcome, I'm **Matt Brassey** - Full stack developer with a focus on decentralized applications.
+[<img align="right" src="https://raw.githubusercontent.com/MBrassey/MediaStore/main/Images/eth.gif" width="80">](https://brassey.io/) &nbsp;Welcome, I'm **Matt Brassey** - Full stack developer with a focus on decentralized applications.
 
 <!--START_SECTION:waka-->
 ```text
