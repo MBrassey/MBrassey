@@ -4,11 +4,11 @@ Welcome, I'm **Matt Brassey** - Full stack blockchain developer with SysOps & De
 ```text
 Week: 17 December, 2020 - 24 December, 2020
 
-JavaScript   16 hrs 56 mins  █████████████░░░░░░░░░░░░   51.95 % 
-CSS          11 hrs 38 mins  █████████░░░░░░░░░░░░░░░░   35.70 % 
-JSON         1 hr 15 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
-Markdown     1 hr 12 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
-SCSS         47 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
+JavaScript   19 hrs 17 mins  ████████████░░░░░░░░░░░░░   48.51 % 
+CSS          16 hrs 27 mins  ██████████▒░░░░░░░░░░░░░░   41.36 % 
+JSON         1 hr 15 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
+Markdown     1 hr 12 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
+SCSS         47 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
 ```
 <!--END_SECTION:waka-->
 [<img align="right" src="https://raw.githubusercontent.com/MBrassey/MediaStore/main/Images/eth.gif" width="96">](https://brassey.io/)
