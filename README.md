@@ -2,7 +2,7 @@ Welcome, I'm **Matt Brassey** - Full stack blockchain developer with SysOps & De
 
 <!--START_SECTION:waka-->
 ```text
-Week: 18 January, 2021 - 25 January, 2021
+Week: 19 January, 2021 - 26 January, 2021
 
 JavaScript   10 hrs 19 mins  █████████████▓░░░░░░░░░░░   54.86 % 
 Markdown     4 hrs 48 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.60 % 
