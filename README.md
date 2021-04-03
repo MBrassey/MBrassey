@@ -4,7 +4,7 @@ Welcome, I'm **Matt Brassey** - Full stack blockchain developer with SysOps & De
 ```text
 Week: 26 March, 2021 - 02 April, 2021
 
-Text   10 mins         █████████████████████████   100.00 % 
+Text    10 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 [<img align="right" src="https://raw.githubusercontent.com/MBrassey/MediaStore/main/Images/eth.gif" width="96">](https://brassey.io/)
