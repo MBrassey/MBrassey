@@ -3,8 +3,6 @@ I'm Matt Brassey, Experienced Blockchain Engineer with Operations and Full Stack
 [<img align="right" src="https://raw.githubusercontent.com/MBrassey/MediaStore/main/Images/eth.gif" width="96">](https://brassey.io/)
 <p align="center">
 <a href="https://www.linkedin.com/in/MBrassey/" target="_blank" rel="noopener noreferrer">LinkedIn</a> |
-<a href="https://gist.github.com/MBrassey" target="_blank" rel="noopener noreferrer">Gist</a> |
-<a href="https://jsfiddle.net/user/MBrassey/fiddles/" target="_blank" rel="noopener noreferrer">JSFiddle</a> |
 <a href="https://brassey.io/" target="_blank" rel="noopener noreferrer">Portfolio</a> |
 <a href="https://docs.google.com/document/d/1T7uHv2RcH_wzERwJKoahqh9ODKdaJ48ci40nKEBViNY/" target="_blank" rel="noopener noreferrer">Resume</a>
 </p>
