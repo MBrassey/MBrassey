@@ -4,7 +4,7 @@ I'm Matt Brassey, experienced Blockchain Engineer with Operations and Full Stack
 <p align="center">
 <a href="https://www.linkedin.com/in/MBrassey/" target="_blank" rel="noopener noreferrer">LinkedIn</a> |
 <a href="https://brassey.io/" target="_blank" rel="noopener noreferrer">Portfolio</a> |
-<a href="https://docs.google.com/document/d/1T7uHv2RcH_wzERwJKoahqh9ODKdaJ48ci40nKEBViNY/" target="_blank" rel="noopener noreferrer">Resume</a>
+<a href="https://docs.google.com/document/d/1Dpr80YVKB8gVMqLhfATrwvSWXX9PPRkTcwx9W2EodbM/edit?tab=t.0" target="_blank" rel="noopener noreferrer">Resume</a>
 </p>
 
 ###### Decentralized App Development
